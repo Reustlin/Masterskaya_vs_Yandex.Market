@@ -37,7 +37,7 @@
 
 [Дима Ротанин - Backend developer](https://github.com/Annsjaw)
 
-<p>Александр Иванов - Data Science</p>
+[Александр Иванов - Data Science](https://github.com/Reustlin)
 <p>Александр Юмрин - Data Science</p>
 <p>Anastacia Khisamieva - Data Science</p>
     
